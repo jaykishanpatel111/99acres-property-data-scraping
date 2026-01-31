@@ -1,0 +1,1053 @@
+2026-01-31 00:01:10 - INFO - Script started at 2026-01-31 00:01:10
+2026-01-31 00:01:10 - INFO - ====== WebDriver manager ======
+2026-01-31 00:01:11 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:01:11 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:01:12 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:01:12 - INFO - WebDriver version 144.0.7559.109 selected
+2026-01-31 00:01:12 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.109/win32/chromedriver-win32.zip
+2026-01-31 00:01:12 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.109/win32/chromedriver-win32.zip
+2026-01-31 00:01:13 - INFO - Driver downloading response is 200
+2026-01-31 00:01:17 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:01:18 - INFO - Driver has been saved in cache [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109]
+2026-01-31 00:01:22 - INFO - Navigating to 99acres...
+2026-01-31 00:01:25 - INFO - Successfully loaded: www.99acres.com
+2026-01-31 00:01:46 - ERROR - Error during search: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1288543
+	0x1288584
+	0x107b4e0
+	0x10c594a
+	0x10c5beb
+	0x1107bb2
+	0x10e8264
+	0x11053a1
+	0x10e7fb6
+	0x10b96f9
+	0x10ba4b4
+	0x14dd034
+	0x14d82c9
+	0x14f6460
+	0x12a1a68
+	0x12a988d
+	0x1290df8
+	0x1290fc2
+	0x127ab3a
+	0x757c5d49
+	0x76ead5db
+	0x76ead561
+
+2026-01-31 00:01:52 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:01:52 - INFO - Scrolling 1/6...
+2026-01-31 00:01:57 - INFO - No more content to load. Trying Next Page...
+2026-01-31 00:01:57 - INFO - Looking for Next Page button...
+2026-01-31 00:02:05 - WARNING - Next Page button not found.
+2026-01-31 00:02:05 - INFO - Next Page button not found. End of pages.
+2026-01-31 00:02:25 - ERROR - Error finding listings: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1288543
+	0x1288584
+	0x107b4e0
+	0x10c594a
+	0x10c5beb
+	0x1107bb2
+	0x10e8264
+	0x11053a1
+	0x10e7fb6
+	0x10b96f9
+	0x10ba4b4
+	0x14dd034
+	0x14d82c9
+	0x14f6460
+	0x12a1a68
+	0x12a988d
+	0x1290df8
+	0x1290fc2
+	0x127ab3a
+	0x757c5d49
+	0x76ead5db
+	0x76ead561
+
+2026-01-31 00:02:25 - WARNING - No listings found on page 1.
+2026-01-31 00:02:25 - INFO - Looking for Next Page button...
+2026-01-31 00:02:34 - WARNING - Next Page button not found.
+2026-01-31 00:02:34 - INFO - No more pages available. Stopping.
+2026-01-31 00:02:34 - INFO - Last page processed: 1
+2026-01-31 00:02:34 - INFO - Script ended at 2026-01-31 00:02:34
+2026-01-31 00:02:34 - INFO - Total execution time: 83.29 seconds
+2026-01-31 00:04:18 - INFO - Script started at 2026-01-31 00:04:18
+2026-01-31 00:04:18 - INFO - ====== WebDriver manager ======
+2026-01-31 00:04:19 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:04:19 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:04:20 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:04:21 - INFO - Navigating to 99acres...
+2026-01-31 00:04:26 - INFO - Successfully loaded: India Real Estate Property Site - Buy Sell Rent Properties Portal - 99acres.com
+2026-01-31 00:04:30 - INFO - Search wrapper clicked.
+2026-01-31 00:04:30 - INFO - Typed city: Ahmedabad
+2026-01-31 00:04:32 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:04:38 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:04:38 - INFO - Scrolling 1/6...
+2026-01-31 00:04:41 - INFO - Scrolling 2/6...
+2026-01-31 00:04:46 - INFO - Scrolling 3/6...
+2026-01-31 00:04:50 - INFO - No more content to load. Trying Next Page...
+2026-01-31 00:04:50 - INFO - Looking for Next Page button...
+2026-01-31 00:04:52 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:04:57 - INFO - Found 58 listings
+2026-01-31 00:04:57 - INFO - Starting multithreaded extraction for 14 projects...
+2026-01-31 00:04:57 - INFO - Fetching details for project ID: 429129
+2026-01-31 00:04:57 - INFO - Fetching details for project ID: 392363
+2026-01-31 00:04:57 - INFO - Fetching details for project ID: 428567
+2026-01-31 00:04:57 - INFO - Fetching details for project ID: 399881
+2026-01-31 00:04:57 - INFO - Fetching details for project ID: 404274
+2026-01-31 00:05:00 - INFO - Fetching details for project ID: 431984
+2026-01-31 00:05:00 - INFO - Fetching details for project ID: 428546
+2026-01-31 00:05:00 - INFO - Fetching details for project ID: 384222
+2026-01-31 00:05:01 - INFO - Fetching details for project ID: 449709
+2026-01-31 00:05:01 - INFO - Fetching details for project ID: 402982
+2026-01-31 00:05:01 - INFO - Fetching details for project ID: 393896
+2026-01-31 00:05:02 - INFO - Fetching details for project ID: 430025
+2026-01-31 00:05:03 - INFO - Fetching details for project ID: 450275
+2026-01-31 00:05:03 - INFO - Fetching details for project ID: 449527
+2026-01-31 00:05:16 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:05:18 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:05:18 - INFO - Multithreaded processing complete.
+2026-01-31 00:05:18 - INFO - Page 1 listings found: 14
+2026-01-31 00:05:18 - INFO - Looking for Next Page button...
+2026-01-31 00:05:21 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:05:25 - INFO - 
+--- Processing Page 2 ---
+2026-01-31 00:05:25 - INFO - Scrolling 1/6...
+2026-01-31 00:05:29 - INFO - No more content to load. Trying Next Page...
+2026-01-31 00:05:29 - INFO - Looking for Next Page button...
+2026-01-31 00:05:37 - WARNING - Next Page button not found.
+2026-01-31 00:05:37 - INFO - Next Page button not found. End of pages.
+2026-01-31 00:05:37 - INFO - Found 0 listings
+2026-01-31 00:05:37 - WARNING - No listings found on page 2.
+2026-01-31 00:05:37 - INFO - Looking for Next Page button...
+2026-01-31 00:05:46 - WARNING - Next Page button not found.
+2026-01-31 00:05:46 - INFO - No more pages available. Stopping.
+2026-01-31 00:05:46 - INFO - Last page processed: 2
+2026-01-31 00:05:46 - INFO - Script ended at 2026-01-31 00:05:46
+2026-01-31 00:05:46 - INFO - Total execution time: 87.87 seconds
+2026-01-31 00:07:47 - INFO - Script started at 2026-01-31 00:07:47
+2026-01-31 00:07:47 - INFO - ====== WebDriver manager ======
+2026-01-31 00:07:49 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:07:49 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:07:49 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:07:51 - INFO - Navigating to 99acres...
+2026-01-31 00:07:57 - INFO - Successfully loaded: India Real Estate Property Site - Buy Sell Rent Properties Portal - 99acres.com
+2026-01-31 00:08:02 - INFO - Search wrapper clicked.
+2026-01-31 00:08:03 - INFO - Typed city: Ahmedabad
+2026-01-31 00:08:05 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:08:11 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:08:11 - INFO - Scrolling 1/6...
+2026-01-31 00:08:14 - INFO - Scrolling 2/6...
+2026-01-31 00:08:18 - INFO - Scrolling 3/6...
+2026-01-31 00:08:23 - INFO - No more content to load. Trying Next Page...
+2026-01-31 00:08:23 - INFO - Looking for Next Page button...
+2026-01-31 00:08:25 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:08:30 - INFO - Found 85 listings
+2026-01-31 00:08:30 - INFO - Starting multithreaded extraction for 14 projects...
+2026-01-31 00:08:30 - INFO - Fetching details for project ID: 429129
+2026-01-31 00:08:30 - INFO - Fetching details for project ID: 392363
+2026-01-31 00:08:30 - INFO - Fetching details for project ID: 428567
+2026-01-31 00:08:30 - INFO - Fetching details for project ID: 399881
+2026-01-31 00:08:30 - INFO - Fetching details for project ID: 404274
+2026-01-31 00:08:34 - INFO - Fetching details for project ID: 431984
+2026-01-31 00:08:34 - INFO - Fetching details for project ID: 428546
+2026-01-31 00:08:34 - INFO - Fetching details for project ID: 384222
+2026-01-31 00:08:34 - INFO - Fetching details for project ID: 449709
+2026-01-31 00:08:34 - INFO - Fetching details for project ID: 402982
+2026-01-31 00:08:36 - INFO - Fetching details for project ID: 393896
+2026-01-31 00:08:36 - INFO - Fetching details for project ID: 430025
+2026-01-31 00:08:36 - INFO - Fetching details for project ID: 450275
+2026-01-31 00:08:36 - INFO - Fetching details for project ID: 449527
+2026-01-31 00:08:50 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:08:52 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:08:52 - INFO - Multithreaded processing complete.
+2026-01-31 00:08:52 - INFO - Page 1 listings found: 14
+2026-01-31 00:08:52 - INFO - Looking for Next Page button...
+2026-01-31 00:08:55 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:09:00 - INFO - 
+--- Processing Page 2 ---
+2026-01-31 00:09:00 - INFO - Scrolling 1/6...
+2026-01-31 00:09:04 - INFO - No more content to load. Trying Next Page...
+2026-01-31 00:09:04 - INFO - Looking for Next Page button...
+2026-01-31 00:09:12 - WARNING - Next Page button not found.
+2026-01-31 00:09:12 - INFO - Next Page button not found. End of pages.
+2026-01-31 00:09:12 - INFO - Found 0 listings
+2026-01-31 00:09:12 - WARNING - No listings found on page 2.
+2026-01-31 00:09:12 - INFO - Looking for Next Page button...
+2026-01-31 00:09:20 - WARNING - Next Page button not found.
+2026-01-31 00:09:20 - INFO - No more pages available. Stopping.
+2026-01-31 00:09:20 - INFO - Last page processed: 2
+2026-01-31 00:09:20 - INFO - Script ended at 2026-01-31 00:09:20
+2026-01-31 00:09:20 - INFO - Total execution time: 93.25 seconds
+2026-01-31 00:12:56 - INFO - Script started at 2026-01-31 00:12:56
+2026-01-31 00:12:56 - INFO - ====== WebDriver manager ======
+2026-01-31 00:13:01 - INFO - Get LATEST geckodriver version for 147.0 firefox
+2026-01-31 00:13:01 - INFO - Get LATEST geckodriver version for 147.0 firefox
+2026-01-31 00:13:01 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "147.0" in cache
+2026-01-31 00:13:01 - INFO - Get LATEST geckodriver version for 147.0 firefox
+2026-01-31 00:13:02 - INFO - Getting latest mozilla release info for v0.36.0
+2026-01-31 00:13:02 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-01-31 00:13:03 - INFO - Driver downloading response is 200
+2026-01-31 00:13:04 - INFO - Get LATEST geckodriver version for 147.0 firefox
+2026-01-31 00:13:05 - INFO - Driver has been saved in cache [C:\Users\jaykishan PATEL\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-01-31 00:13:15 - INFO - Navigating to 99acres using Firefox...
+2026-01-31 00:13:21 - INFO - Successfully loaded: 
+2026-01-31 00:13:41 - ERROR - Error during search: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:555:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2026-01-31 00:13:47 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:13:47 - INFO - Scrolling 1/6...
+2026-01-31 00:13:51 - INFO - No more content to load. Trying Next Page...
+2026-01-31 00:13:51 - INFO - Looking for Next Page button...
+2026-01-31 00:13:59 - WARNING - Next Page button not found.
+2026-01-31 00:13:59 - INFO - Next Page button not found. End of pages.
+2026-01-31 00:14:04 - ERROR - Error finding listings: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:472:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:581:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:38:4
+dispatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+
+2026-01-31 00:14:04 - WARNING - No listings found on page 1.
+2026-01-31 00:14:04 - INFO - Looking for Next Page button...
+2026-01-31 00:14:04 - INFO - Last page processed: 1
+2026-01-31 00:14:04 - INFO - Script ended at 2026-01-31 00:14:04
+2026-01-31 00:14:04 - INFO - Total execution time: 68.29 seconds
+2026-01-31 00:14:09 - INFO - Script started at 2026-01-31 00:14:09
+2026-01-31 00:14:09 - INFO - ====== WebDriver manager ======
+2026-01-31 00:14:11 - INFO - Get LATEST geckodriver version for 147.0 firefox
+2026-01-31 00:14:12 - INFO - Get LATEST geckodriver version for 147.0 firefox
+2026-01-31 00:14:12 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+2026-01-31 00:14:19 - INFO - Navigating to 99acres using Firefox...
+2026-01-31 00:14:25 - INFO - Successfully loaded: 
+2026-01-31 00:14:45 - ERROR - Error during search: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:555:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2026-01-31 00:14:51 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:14:51 - INFO - Scrolling 1/6...
+2026-01-31 00:14:56 - INFO - No more content to load. Trying Next Page...
+2026-01-31 00:14:56 - INFO - Looking for Next Page button...
+2026-01-31 00:15:04 - WARNING - Next Page button not found.
+2026-01-31 00:15:04 - INFO - Next Page button not found. End of pages.
+2026-01-31 00:15:24 - ERROR - Error finding listings: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:202:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:555:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2026-01-31 00:15:24 - WARNING - No listings found on page 1.
+2026-01-31 00:15:24 - INFO - Looking for Next Page button...
+2026-01-31 00:15:32 - WARNING - Next Page button not found.
+2026-01-31 00:15:32 - INFO - No more pages available. Stopping.
+2026-01-31 00:15:32 - INFO - Last page processed: 1
+2026-01-31 00:15:32 - INFO - Script ended at 2026-01-31 00:15:32
+2026-01-31 00:15:32 - INFO - Total execution time: 83.57 seconds
+2026-01-31 00:18:31 - INFO - Script started at 2026-01-31 00:18:31
+2026-01-31 00:21:49 - INFO - Script started at 2026-01-31 00:21:49
+2026-01-31 00:22:08 - INFO - Script started at 2026-01-31 00:22:08
+2026-01-31 00:22:08 - INFO - ====== WebDriver manager ======
+2026-01-31 00:22:09 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:22:10 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:22:10 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:22:12 - ERROR - Failed to open browser: Message: Service C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe unexpectedly exited. Status code was: 1
+
+2026-01-31 00:22:12 - INFO - Last page processed: 1
+2026-01-31 00:22:12 - INFO - Script ended at 2026-01-31 00:22:12
+2026-01-31 00:22:12 - INFO - Total execution time: 3.71 seconds
+2026-01-31 00:22:25 - INFO - Script started at 2026-01-31 00:22:25
+2026-01-31 00:22:25 - INFO - ====== WebDriver manager ======
+2026-01-31 00:22:26 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:22:27 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:22:27 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:22:29 - ERROR - Failed to open browser: Message: Service C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe unexpectedly exited. Status code was: 1
+
+2026-01-31 00:22:29 - INFO - Last page processed: 1
+2026-01-31 00:22:29 - INFO - Script ended at 2026-01-31 00:22:29
+2026-01-31 00:22:29 - INFO - Total execution time: 3.71 seconds
+2026-01-31 00:23:34 - INFO - Script started at 2026-01-31 00:23:34
+2026-01-31 00:23:34 - INFO - ====== WebDriver manager ======
+2026-01-31 00:23:35 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:23:35 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:23:35 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:23:50 - INFO - Script started at 2026-01-31 00:23:50
+2026-01-31 00:23:50 - INFO - ====== WebDriver manager ======
+2026-01-31 00:23:51 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:23:51 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:23:51 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:24:28 - INFO - Script started at 2026-01-31 00:24:28
+2026-01-31 00:24:28 - INFO - ====== WebDriver manager ======
+2026-01-31 00:24:29 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:24:29 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:24:29 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:24:31 - INFO - Navigating to 99acres...
+2026-01-31 00:24:35 - INFO - Successfully loaded: India Real Estate Property Site - Buy Sell Rent Properties Portal - 99acres.com
+2026-01-31 00:24:37 - INFO - Search wrapper clicked.
+2026-01-31 00:24:37 - INFO - Typed city: Ahmedabad
+2026-01-31 00:24:40 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:24:46 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:24:46 - INFO - Scrolling 1/6...
+2026-01-31 00:24:50 - INFO - Scrolling 2/6...
+2026-01-31 00:24:55 - INFO - Scrolling 3/6...
+2026-01-31 00:24:58 - INFO - No more content to load. Trying Next Page...
+2026-01-31 00:24:58 - INFO - Looking for Next Page button...
+2026-01-31 00:25:01 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:25:06 - INFO - Found 85 listings
+2026-01-31 00:25:06 - INFO - Starting multithreaded extraction for 14 projects...
+2026-01-31 00:25:06 - INFO - Fetching details for project ID: 429129
+2026-01-31 00:25:06 - INFO - Fetching details for project ID: 392363
+2026-01-31 00:25:06 - INFO - Fetching details for project ID: 428567
+2026-01-31 00:25:06 - INFO - Fetching details for project ID: 399881
+2026-01-31 00:25:06 - INFO - Fetching details for project ID: 404274
+2026-01-31 00:25:09 - INFO - Fetching details for project ID: 431984
+2026-01-31 00:25:09 - INFO - Fetching details for project ID: 428546
+2026-01-31 00:25:09 - INFO - Fetching details for project ID: 384222
+2026-01-31 00:25:09 - INFO - Fetching details for project ID: 449709
+2026-01-31 00:25:10 - INFO - Fetching details for project ID: 402982
+2026-01-31 00:25:11 - INFO - Fetching details for project ID: 393896
+2026-01-31 00:25:11 - INFO - Fetching details for project ID: 430025
+2026-01-31 00:25:11 - INFO - Fetching details for project ID: 450275
+2026-01-31 00:25:12 - INFO - Fetching details for project ID: 449527
+2026-01-31 00:25:26 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:25:26 - INFO - Multithreaded processing complete.
+2026-01-31 00:25:26 - INFO - Page 1 listings found: 14
+2026-01-31 00:25:26 - INFO - Looking for Next Page button...
+2026-01-31 00:25:27 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:25:32 - INFO - 
+--- Processing Page 2 ---
+2026-01-31 00:25:32 - INFO - Scrolling 1/6...
+2026-01-31 00:25:36 - INFO - No more content to load. Trying Next Page...
+2026-01-31 00:25:36 - INFO - Looking for Next Page button...
+2026-01-31 00:25:39 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:25:44 - INFO - Found 81 listings
+2026-01-31 00:25:44 - INFO - Starting multithreaded extraction for 16 projects...
+2026-01-31 00:25:44 - INFO - Fetching details for project ID: 410305
+2026-01-31 00:25:44 - INFO - Fetching details for project ID: 441467
+2026-01-31 00:25:44 - INFO - Fetching details for project ID: 436205
+2026-01-31 00:25:44 - INFO - Fetching details for project ID: 417224
+2026-01-31 00:25:44 - INFO - Fetching details for project ID: 389974
+2026-01-31 00:25:46 - INFO - Fetching details for project ID: 410064
+2026-01-31 00:25:46 - INFO - Fetching details for project ID: 378203
+2026-01-31 00:25:46 - INFO - Fetching details for project ID: 431635
+2026-01-31 00:25:47 - INFO - Fetching details for project ID: 441860
+2026-01-31 00:25:47 - INFO - Fetching details for project ID: 405467
+2026-01-31 00:25:48 - INFO - Fetching details for project ID: 455383
+2026-01-31 00:25:48 - INFO - Fetching details for project ID: 429541
+2026-01-31 00:25:49 - INFO - Fetching details for project ID: 298215
+2026-01-31 00:25:49 - INFO - Fetching details for project ID: 423636
+2026-01-31 00:25:50 - INFO - Fetching details for project ID: 420353
+2026-01-31 00:25:50 - INFO - Fetching details for project ID: 440113
+2026-01-31 00:26:03 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:26:06 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:26:06 - INFO - Multithreaded processing complete.
+2026-01-31 00:26:06 - INFO - Page 2 listings found: 16
+2026-01-31 00:26:06 - INFO - Looking for Next Page button...
+2026-01-31 00:26:08 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:26:13 - INFO - 
+--- Processing Page 3 ---
+2026-01-31 00:26:13 - INFO - Scrolling 1/6...
+2026-01-31 00:26:17 - INFO - No more content to load. Trying Next Page...
+2026-01-31 00:26:17 - INFO - Looking for Next Page button...
+2026-01-31 00:26:26 - WARNING - Next Page button not found.
+2026-01-31 00:26:26 - INFO - Next Page button not found. End of pages.
+2026-01-31 00:26:26 - INFO - Found 0 listings
+2026-01-31 00:26:26 - WARNING - No listings found on page 3.
+2026-01-31 00:26:26 - INFO - Looking for Next Page button...
+2026-01-31 00:26:34 - WARNING - Next Page button not found.
+2026-01-31 00:26:34 - INFO - No more pages available. Stopping.
+2026-01-31 00:26:34 - INFO - Last page processed: 3
+2026-01-31 00:26:34 - INFO - Script ended at 2026-01-31 00:26:34
+2026-01-31 00:26:34 - INFO - Total execution time: 126.44 seconds
+2026-01-31 00:30:27 - INFO - Script started at 2026-01-31 00:30:27
+2026-01-31 00:30:27 - INFO - ====== WebDriver manager ======
+2026-01-31 00:30:33 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:30:33 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:30:33 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:30:35 - INFO - Navigating to 99acres...
+2026-01-31 00:30:40 - INFO - Successfully loaded: India Real Estate Property Site - Buy Sell Rent Properties Portal - 99acres.com
+2026-01-31 00:30:45 - INFO - Search wrapper clicked.
+2026-01-31 00:30:45 - INFO - Typed city: Ahmedabad
+2026-01-31 00:30:48 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:30:54 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:30:54 - INFO - Scrolling cycle 1/6...
+2026-01-31 00:30:56 - INFO - Scrolling cycle 2/6...
+2026-01-31 00:31:00 - INFO - Scrolling cycle 3/6...
+2026-01-31 00:31:06 - INFO - Scrolling cycle 4/6...
+2026-01-31 00:31:10 - INFO - Scrolling cycle 5/6...
+2026-01-31 00:31:15 - INFO - No new content detected. Final upward scroll...
+2026-01-31 00:31:18 - INFO - Looking for Next Page button...
+2026-01-31 00:31:21 - INFO - Last page processed: 1
+2026-01-31 00:31:21 - INFO - Script ended at 2026-01-31 00:31:21
+2026-01-31 00:31:21 - INFO - Total execution time: 53.62 seconds
+2026-01-31 00:32:05 - INFO - Script started at 2026-01-31 00:32:05
+2026-01-31 00:32:05 - INFO - ====== WebDriver manager ======
+2026-01-31 00:32:06 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:32:07 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:32:07 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:32:08 - INFO - Navigating to 99acres...
+2026-01-31 00:32:14 - INFO - Successfully loaded: India Real Estate Property Site - Buy Sell Rent Properties Portal - 99acres.com
+2026-01-31 00:32:19 - INFO - Search wrapper clicked.
+2026-01-31 00:32:19 - INFO - Typed city: Ahmedabad
+2026-01-31 00:32:21 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:32:27 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:32:27 - INFO - Scrolling cycle 1/6...
+2026-01-31 00:32:29 - INFO - Scrolling cycle 2/6...
+2026-01-31 00:32:32 - INFO - Scrolling cycle 3/6...
+2026-01-31 00:32:34 - INFO - No new content detected. Final upward scroll...
+2026-01-31 00:32:37 - INFO - Looking for Next Page button...
+2026-01-31 00:32:39 - INFO - Last page processed: 1
+2026-01-31 00:32:39 - INFO - Script ended at 2026-01-31 00:32:39
+2026-01-31 00:32:39 - INFO - Total execution time: 33.45 seconds
+2026-01-31 00:35:02 - INFO - Script started at 2026-01-31 00:35:02
+2026-01-31 00:35:02 - INFO - ====== WebDriver manager ======
+2026-01-31 00:35:03 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:35:03 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:35:04 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:35:05 - INFO - Navigating to 99acres...
+2026-01-31 00:35:08 - INFO - Successfully loaded: India Real Estate Property Site - Buy Sell Rent Properties Portal - 99acres.com
+2026-01-31 00:35:09 - INFO - Search wrapper clicked.
+2026-01-31 00:35:10 - INFO - Typed city: Ahmedabad
+2026-01-31 00:35:12 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:35:18 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:35:32 - INFO - Reached end of page.
+2026-01-31 00:35:34 - INFO - Found 168 listings
+2026-01-31 00:35:34 - INFO - Starting multithreaded extraction for 103 projects...
+2026-01-31 00:35:34 - INFO - Fetching details for project ID: 455077
+2026-01-31 00:35:34 - INFO - Fetching details for project ID: 414403
+2026-01-31 00:35:34 - INFO - Fetching details for project ID: 455919
+2026-01-31 00:35:34 - INFO - Fetching details for project ID: 406898
+2026-01-31 00:35:34 - INFO - Fetching details for project ID: 396846
+2026-01-31 00:35:36 - INFO - Fetching details for project ID: 436196
+2026-01-31 00:35:36 - INFO - Fetching details for project ID: 455886
+2026-01-31 00:35:37 - INFO - Fetching details for project ID: 455303
+2026-01-31 00:35:37 - INFO - Fetching details for project ID: 414575
+2026-01-31 00:35:38 - INFO - Fetching details for project ID: 449506
+2026-01-31 00:35:38 - INFO - Fetching details for project ID: 448193
+2026-01-31 00:35:38 - INFO - Fetching details for project ID: 437262
+2026-01-31 00:35:39 - INFO - Fetching details for project ID: 454668
+2026-01-31 00:35:39 - INFO - Fetching details for project ID: 434059
+2026-01-31 00:35:40 - INFO - Fetching details for project ID: 441166
+2026-01-31 00:35:40 - INFO - Fetching details for project ID: 453036
+2026-01-31 00:35:41 - INFO - Fetching details for project ID: 426865
+2026-01-31 00:35:41 - INFO - Fetching details for project ID: 412517
+2026-01-31 00:35:41 - INFO - Fetching details for project ID: 437858
+2026-01-31 00:35:43 - INFO - Fetching details for project ID: 398882
+2026-01-31 00:35:43 - INFO - Fetching details for project ID: 439275
+2026-01-31 00:35:43 - INFO - Fetching details for project ID: 419821
+2026-01-31 00:35:45 - INFO - Fetching details for project ID: 448207
+2026-01-31 00:35:45 - INFO - Fetching details for project ID: 441826
+2026-01-31 00:35:46 - INFO - Fetching details for project ID: 423634
+2026-01-31 00:35:47 - INFO - Fetching details for project ID: 395978
+2026-01-31 00:35:47 - INFO - Fetching details for project ID: 415849
+2026-01-31 00:35:47 - INFO - Fetching details for project ID: 395198
+2026-01-31 00:35:49 - INFO - Fetching details for project ID: 438863
+2026-01-31 00:35:49 - INFO - Fetching details for project ID: 386911
+2026-01-31 00:35:50 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:35:50 - INFO - Fetching details for project ID: 417556
+2026-01-31 00:35:50 - INFO - Fetching details for project ID: 425110
+2026-01-31 00:35:51 - INFO - Fetching details for project ID: 430740
+2026-01-31 00:35:52 - INFO - Fetching details for project ID: 419031
+2026-01-31 00:35:52 - INFO - Fetching details for project ID: 426093
+2026-01-31 00:35:53 - INFO - Fetching details for project ID: 448663
+2026-01-31 00:35:54 - INFO - Fetching details for project ID: 449421
+2026-01-31 00:35:54 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:35:54 - INFO - Fetching details for project ID: 419815
+2026-01-31 00:35:55 - INFO - Fetching details for project ID: 448200
+2026-01-31 00:35:55 - INFO - Fetching details for project ID: 439503
+2026-01-31 00:35:56 - INFO - Fetching details for project ID: 451304
+2026-01-31 00:35:56 - INFO - Fetching details for project ID: 450209
+2026-01-31 00:35:57 - INFO - Fetching details for project ID: 423125
+2026-01-31 00:35:58 - INFO - Fetching details for project ID: 396174
+2026-01-31 00:35:58 - INFO - Fetching details for project ID: 439513
+2026-01-31 00:35:59 - INFO - Fetching details for project ID: 3330
+2026-01-31 00:35:59 - INFO - Fetching details for project ID: 415440
+2026-01-31 00:36:00 - INFO - Fetching details for project ID: 245177
+2026-01-31 00:36:01 - INFO - Fetching details for project ID: 367377
+2026-01-31 00:36:02 - INFO - Fetching details for project ID: 411844
+2026-01-31 00:36:02 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:36:02 - INFO - Fetching details for project ID: 438738
+2026-01-31 00:36:03 - INFO - Fetching details for project ID: 449620
+2026-01-31 00:36:04 - INFO - Fetching details for project ID: 414100
+2026-01-31 00:36:04 - INFO - Fetching details for project ID: 398938
+2026-01-31 00:36:05 - INFO - Fetching details for project ID: 448884
+2026-01-31 00:36:06 - INFO - Fetching details for project ID: 417174
+2026-01-31 00:36:07 - INFO - Fetching details for project ID: 422312
+2026-01-31 00:36:08 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:36:08 - INFO - Fetching details for project ID: 426539
+2026-01-31 00:36:08 - INFO - Fetching details for project ID: 430238
+2026-01-31 00:36:08 - INFO - Fetching details for project ID: 389184
+2026-01-31 00:36:09 - INFO - Fetching details for project ID: 454047
+2026-01-31 00:36:10 - INFO - Fetching details for project ID: 410304
+2026-01-31 00:36:10 - INFO - Fetching details for project ID: 424911
+2026-01-31 00:36:10 - INFO - Fetching details for project ID: 454037
+2026-01-31 00:36:11 - INFO - Fetching details for project ID: 441745
+2026-01-31 00:36:12 - INFO - Fetching details for project ID: 426092
+2026-01-31 00:36:12 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:36:12 - INFO - Fetching details for project ID: 388209
+2026-01-31 00:36:13 - INFO - Fetching details for project ID: 428544
+2026-01-31 00:36:14 - INFO - Fetching details for project ID: 454890
+2026-01-31 00:36:14 - INFO - Fetching details for project ID: 411006
+2026-01-31 00:36:14 - INFO - Fetching details for project ID: 403091
+2026-01-31 00:36:15 - INFO - Fetching details for project ID: 443113
+2026-01-31 00:36:15 - INFO - Fetching details for project ID: 395251
+2026-01-31 00:36:16 - INFO - Fetching details for project ID: 432142
+2026-01-31 00:36:17 - INFO - Fetching details for project ID: 451311
+2026-01-31 00:36:18 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:36:18 - INFO - Fetching details for project ID: 442741
+2026-01-31 00:36:18 - INFO - Fetching details for project ID: 401645
+2026-01-31 00:36:18 - INFO - Fetching details for project ID: 424389
+2026-01-31 00:36:19 - INFO - Fetching details for project ID: 415447
+2026-01-31 00:36:20 - INFO - Fetching details for project ID: 402571
+2026-01-31 00:36:20 - INFO - Fetching details for project ID: 449721
+2026-01-31 00:36:21 - INFO - Fetching details for project ID: 371407
+2026-01-31 00:36:22 - INFO - Fetching details for project ID: 436210
+2026-01-31 00:36:23 - INFO - Fetching details for project ID: 438182
+2026-01-31 00:36:23 - INFO - Fetching details for project ID: 392606
+2026-01-31 00:36:24 - INFO - Fetching details for project ID: 419816
+2026-01-31 00:36:25 - INFO - Fetching details for project ID: 382211
+2026-01-31 00:36:26 - INFO - Fetching details for project ID: 424874
+2026-01-31 00:36:26 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:36:26 - INFO - Fetching details for project ID: 441841
+2026-01-31 00:36:26 - INFO - Fetching details for project ID: 408676
+2026-01-31 00:36:27 - INFO - Fetching details for project ID: 457116
+2026-01-31 00:36:27 - INFO - Fetching details for project ID: 429441
+2026-01-31 00:36:28 - INFO - Fetching details for project ID: 449432
+2026-01-31 00:36:29 - INFO - Fetching details for project ID: 417218
+2026-01-31 00:36:29 - INFO - Fetching details for project ID: 417559
+2026-01-31 00:36:29 - INFO - Fetching details for project ID: 430200
+2026-01-31 00:36:30 - INFO - Fetching details for project ID: 388125
+2026-01-31 00:36:31 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:36:31 - INFO - Fetching details for project ID: 455923
+2026-01-31 00:36:31 - INFO - Fetching details for project ID: 451125
+2026-01-31 00:36:31 - INFO - Fetching details for project ID: 423640
+2026-01-31 00:36:32 - INFO - Fetching details for project ID: 393086
+2026-01-31 00:36:33 - INFO - Fetching details for project ID: 423882
+2026-01-31 00:36:33 - INFO - Fetching details for project ID: 379963
+2026-01-31 00:36:35 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:36:45 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:36:48 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:36:48 - INFO - Multithreaded processing complete.
+2026-01-31 00:36:48 - INFO - Page 1 listings found: 103
+2026-01-31 00:36:48 - INFO - Looking for Next Page button...
+2026-01-31 00:36:51 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:36:54 - INFO - 
+--- Processing Page 2 ---
+2026-01-31 00:36:59 - INFO - Reached end of page.
+2026-01-31 00:36:59 - INFO - Found 0 listings
+2026-01-31 00:36:59 - WARNING - No listings found on page 2.
+2026-01-31 00:36:59 - INFO - Looking for Next Page button...
+2026-01-31 00:37:07 - WARNING - Next Page button not found.
+2026-01-31 00:37:07 - INFO - No more pages available. Stopping.
+2026-01-31 00:37:07 - INFO - Last page processed: 2
+2026-01-31 00:37:07 - INFO - Script ended at 2026-01-31 00:37:07
+2026-01-31 00:37:07 - INFO - Total execution time: 125.21 seconds
+2026-01-31 00:38:39 - INFO - Script started at 2026-01-31 00:38:39
+2026-01-31 00:38:39 - INFO - ====== WebDriver manager ======
+2026-01-31 00:38:40 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:38:41 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:38:41 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:38:42 - INFO - Navigating to 99acres...
+2026-01-31 00:38:49 - INFO - Successfully loaded: India Real Estate Property Site - Buy Sell Rent Properties Portal - 99acres.com
+2026-01-31 00:38:52 - INFO - Search wrapper clicked.
+2026-01-31 00:38:53 - INFO - Typed city: Ahmedabad
+2026-01-31 00:38:55 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:39:01 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:39:14 - INFO - Reached end of page.
+2026-01-31 00:39:15 - INFO - Found 148 listings
+2026-01-31 00:39:15 - INFO - Starting multithreaded extraction for 103 projects...
+2026-01-31 00:39:15 - INFO - Fetching details for project ID: 455077
+2026-01-31 00:39:15 - INFO - Fetching details for project ID: 414403
+2026-01-31 00:39:15 - INFO - Fetching details for project ID: 455919
+2026-01-31 00:39:15 - INFO - Fetching details for project ID: 406898
+2026-01-31 00:39:15 - INFO - Fetching details for project ID: 396846
+2026-01-31 00:39:17 - INFO - Fetching details for project ID: 436196
+2026-01-31 00:39:18 - INFO - Fetching details for project ID: 455886
+2026-01-31 00:39:18 - INFO - Fetching details for project ID: 455303
+2026-01-31 00:39:18 - INFO - Fetching details for project ID: 414575
+2026-01-31 00:39:18 - INFO - Fetching details for project ID: 449506
+2026-01-31 00:39:19 - INFO - Fetching details for project ID: 448193
+2026-01-31 00:39:19 - INFO - Fetching details for project ID: 437262
+2026-01-31 00:39:20 - INFO - Fetching details for project ID: 454668
+2026-01-31 00:39:20 - INFO - Fetching details for project ID: 434059
+2026-01-31 00:39:21 - INFO - Fetching details for project ID: 441166
+2026-01-31 00:39:21 - INFO - Fetching details for project ID: 453036
+2026-01-31 00:39:21 - INFO - Fetching details for project ID: 426865
+2026-01-31 00:39:22 - INFO - Fetching details for project ID: 412517
+2026-01-31 00:39:22 - INFO - Fetching details for project ID: 437858
+2026-01-31 00:39:22 - INFO - Fetching details for project ID: 398882
+2026-01-31 00:39:23 - INFO - Fetching details for project ID: 439275
+2026-01-31 00:39:23 - INFO - Fetching details for project ID: 419821
+2026-01-31 00:39:24 - INFO - Fetching details for project ID: 448207
+2026-01-31 00:39:24 - INFO - Fetching details for project ID: 441826
+2026-01-31 00:39:24 - INFO - Fetching details for project ID: 423634
+2026-01-31 00:39:25 - INFO - Fetching details for project ID: 395978
+2026-01-31 00:39:25 - INFO - Fetching details for project ID: 415849
+2026-01-31 00:39:25 - INFO - Fetching details for project ID: 395198
+2026-01-31 00:39:26 - INFO - Fetching details for project ID: 438863
+2026-01-31 00:39:26 - INFO - Fetching details for project ID: 386911
+2026-01-31 00:39:27 - INFO - Fetching details for project ID: 417556
+2026-01-31 00:39:27 - INFO - Fetching details for project ID: 425110
+2026-01-31 00:39:27 - INFO - Fetching details for project ID: 430740
+2026-01-31 00:39:27 - INFO - Fetching details for project ID: 419031
+2026-01-31 00:39:28 - INFO - Fetching details for project ID: 426093
+2026-01-31 00:39:29 - INFO - Fetching details for project ID: 448663
+2026-01-31 00:39:29 - INFO - Fetching details for project ID: 449421
+2026-01-31 00:39:30 - INFO - Fetching details for project ID: 419815
+2026-01-31 00:39:30 - INFO - Fetching details for project ID: 448200
+2026-01-31 00:39:31 - INFO - Fetching details for project ID: 439503
+2026-01-31 00:39:31 - INFO - Fetching details for project ID: 451304
+2026-01-31 00:39:32 - INFO - Fetching details for project ID: 450209
+2026-01-31 00:39:33 - INFO - Fetching details for project ID: 423125
+2026-01-31 00:39:34 - INFO - Fetching details for project ID: 396174
+2026-01-31 00:39:35 - INFO - Fetching details for project ID: 439513
+2026-01-31 00:39:35 - INFO - Fetching details for project ID: 3330
+2026-01-31 00:39:36 - INFO - Fetching details for project ID: 415440
+2026-01-31 00:39:37 - INFO - Fetching details for project ID: 245177
+2026-01-31 00:39:41 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:39:41 - INFO - Fetching details for project ID: 367377
+2026-01-31 00:39:43 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:39:43 - INFO - Fetching details for project ID: 411844
+2026-01-31 00:39:45 - INFO - Fetching details for project ID: 438738
+2026-01-31 00:39:46 - INFO - Fetching details for project ID: 449620
+2026-01-31 00:39:46 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:39:46 - INFO - Fetching details for project ID: 414100
+2026-01-31 00:39:47 - INFO - Fetching details for project ID: 398938
+2026-01-31 00:39:51 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:39:51 - INFO - Fetching details for project ID: 448884
+2026-01-31 00:39:52 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:39:52 - INFO - Fetching details for project ID: 417174
+2026-01-31 00:39:53 - INFO - Fetching details for project ID: 422312
+2026-01-31 00:39:53 - INFO - Fetching details for project ID: 426539
+2026-01-31 00:39:55 - INFO - Fetching details for project ID: 430238
+2026-01-31 00:39:57 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:39:57 - INFO - Fetching details for project ID: 389184
+2026-01-31 00:39:57 - INFO - Fetching details for project ID: 454047
+2026-01-31 00:39:58 - INFO - Fetching details for project ID: 410304
+2026-01-31 00:40:00 - INFO - Fetching details for project ID: 424911
+2026-01-31 00:40:01 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:40:01 - INFO - Fetching details for project ID: 454037
+2026-01-31 00:40:02 - INFO - Fetching details for project ID: 441745
+2026-01-31 00:40:03 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:40:03 - INFO - Fetching details for project ID: 426092
+2026-01-31 00:40:03 - INFO - Fetching details for project ID: 388209
+2026-01-31 00:40:03 - INFO - Fetching details for project ID: 428544
+2026-01-31 00:40:04 - INFO - Fetching details for project ID: 454890
+2026-01-31 00:40:05 - INFO - Fetching details for project ID: 411006
+2026-01-31 00:40:06 - INFO - Fetching details for project ID: 403091
+2026-01-31 00:40:06 - INFO - Fetching details for project ID: 443113
+2026-01-31 00:40:07 - INFO - Fetching details for project ID: 395251
+2026-01-31 00:40:07 - INFO - Fetching details for project ID: 432142
+2026-01-31 00:40:09 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:40:09 - INFO - Fetching details for project ID: 451311
+2026-01-31 00:40:09 - INFO - Fetching details for project ID: 442741
+2026-01-31 00:40:09 - INFO - Fetching details for project ID: 401645
+2026-01-31 00:40:10 - INFO - Fetching details for project ID: 424389
+2026-01-31 00:40:10 - INFO - Fetching details for project ID: 415447
+2026-01-31 00:40:11 - INFO - Fetching details for project ID: 402571
+2026-01-31 00:40:12 - INFO - Fetching details for project ID: 449721
+2026-01-31 00:40:12 - INFO - Fetching details for project ID: 371407
+2026-01-31 00:40:12 - INFO - Fetching details for project ID: 436210
+2026-01-31 00:40:13 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:40:13 - INFO - Fetching details for project ID: 438182
+2026-01-31 00:40:14 - INFO - Fetching details for project ID: 392606
+2026-01-31 00:40:14 - INFO - Fetching details for project ID: 419816
+2026-01-31 00:40:14 - INFO - Fetching details for project ID: 382211
+2026-01-31 00:40:14 - INFO - Fetching details for project ID: 424874
+2026-01-31 00:40:15 - INFO - Fetching details for project ID: 441841
+2026-01-31 00:40:15 - INFO - Fetching details for project ID: 408676
+2026-01-31 00:40:16 - INFO - Fetching details for project ID: 457116
+2026-01-31 00:40:17 - INFO - Fetching details for project ID: 429441
+2026-01-31 00:40:17 - INFO - Fetching details for project ID: 449432
+2026-01-31 00:40:18 - INFO - Fetching details for project ID: 417218
+2026-01-31 00:40:18 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:40:18 - INFO - Fetching details for project ID: 417559
+2026-01-31 00:40:18 - INFO - Fetching details for project ID: 430200
+2026-01-31 00:40:19 - INFO - Fetching details for project ID: 388125
+2026-01-31 00:40:19 - INFO - Fetching details for project ID: 455923
+2026-01-31 00:40:20 - INFO - Fetching details for project ID: 451125
+2026-01-31 00:40:21 - INFO - Fetching details for project ID: 423640
+2026-01-31 00:40:21 - INFO - Fetching details for project ID: 393086
+2026-01-31 00:40:22 - INFO - Fetching details for project ID: 423882
+2026-01-31 00:40:22 - INFO - Fetching details for project ID: 379963
+2026-01-31 00:40:30 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:40:34 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:40:36 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:40:36 - INFO - Multithreaded processing complete.
+2026-01-31 00:40:36 - INFO - Page 1 listings found: 103
+2026-01-31 00:40:36 - INFO - Looking for Next Page button...
+2026-01-31 00:40:38 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:40:41 - INFO - 
+--- Processing Page 2 ---
+2026-01-31 00:40:46 - INFO - Reached end of page.
+2026-01-31 00:40:46 - INFO - Found 0 listings
+2026-01-31 00:40:46 - WARNING - No listings found on page 2.
+2026-01-31 00:40:46 - INFO - Looking for Next Page button...
+2026-01-31 00:40:55 - WARNING - Next Page button not found.
+2026-01-31 00:40:55 - INFO - No more pages available. Stopping.
+2026-01-31 00:40:55 - INFO - Last page processed: 2
+2026-01-31 00:40:55 - INFO - Script ended at 2026-01-31 00:40:55
+2026-01-31 00:40:55 - INFO - Total execution time: 135.87 seconds
+2026-01-31 00:44:23 - INFO - Script started at 2026-01-31 00:44:23
+2026-01-31 00:44:23 - INFO - ====== WebDriver manager ======
+2026-01-31 00:44:25 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:44:25 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:44:25 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:44:27 - INFO - Navigating to 99acres...
+2026-01-31 00:44:30 - INFO - Successfully loaded: India Real Estate Property Site - Buy Sell Rent Properties Portal - 99acres.com
+2026-01-31 00:44:32 - INFO - Search wrapper clicked.
+2026-01-31 00:44:33 - INFO - Typed city: Ahmedabad
+2026-01-31 00:44:34 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:44:40 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:44:52 - INFO - Reached end of page.
+2026-01-31 00:44:52 - INFO - Found 0 listings
+2026-01-31 00:44:52 - WARNING - No listings found on page 1.
+2026-01-31 00:44:52 - INFO - Looking for Next Page button...
+2026-01-31 00:45:01 - WARNING - Next Page button not found.
+2026-01-31 00:45:01 - INFO - No more pages available. Stopping.
+2026-01-31 00:45:01 - INFO - Last page processed: 1
+2026-01-31 00:45:01 - INFO - Script ended at 2026-01-31 00:45:01
+2026-01-31 00:45:01 - INFO - Total execution time: 37.94 seconds
+2026-01-31 00:45:12 - INFO - Script started at 2026-01-31 00:45:12
+2026-01-31 00:45:12 - INFO - ====== WebDriver manager ======
+2026-01-31 00:45:13 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:45:14 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:45:14 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:45:16 - INFO - Navigating to 99acres...
+2026-01-31 00:45:23 - INFO - Successfully loaded: India Real Estate Property Site - Buy Sell Rent Properties Portal - 99acres.com
+2026-01-31 00:45:25 - INFO - Search wrapper clicked.
+2026-01-31 00:45:27 - INFO - Typed city: Ahmedabad
+2026-01-31 00:45:30 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:45:36 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:45:52 - INFO - Reached end of page.
+2026-01-31 00:45:55 - INFO - Found 175 listings
+2026-01-31 00:45:55 - INFO - Starting multithreaded extraction for 103 projects...
+2026-01-31 00:45:55 - INFO - Fetching details for project ID: 455077
+2026-01-31 00:45:55 - INFO - Fetching details for project ID: 414403
+2026-01-31 00:45:55 - INFO - Fetching details for project ID: 455919
+2026-01-31 00:45:55 - INFO - Fetching details for project ID: 406898
+2026-01-31 00:45:55 - INFO - Fetching details for project ID: 396846
+2026-01-31 00:45:58 - INFO - Fetching details for project ID: 436196
+2026-01-31 00:45:58 - INFO - Fetching details for project ID: 455886
+2026-01-31 00:45:58 - INFO - Fetching details for project ID: 455303
+2026-01-31 00:45:58 - INFO - Fetching details for project ID: 414575
+2026-01-31 00:46:00 - INFO - Fetching details for project ID: 449506
+2026-01-31 00:46:00 - INFO - Fetching details for project ID: 448193
+2026-01-31 00:46:02 - INFO - Fetching details for project ID: 437262
+2026-01-31 00:46:02 - INFO - Fetching details for project ID: 454668
+2026-01-31 00:46:04 - INFO - Fetching details for project ID: 434059
+2026-01-31 00:46:04 - INFO - Processed 10 projects. Sleeping for 5s to avoid blocking.
+2026-01-31 00:46:09 - INFO - Fetching details for project ID: 441166
+2026-01-31 00:46:09 - INFO - Fetching details for project ID: 453036
+2026-01-31 00:46:11 - INFO - Fetching details for project ID: 426865
+2026-01-31 00:46:11 - INFO - Fetching details for project ID: 412517
+2026-01-31 00:46:12 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:46:12 - INFO - Fetching details for project ID: 437858
+2026-01-31 00:46:13 - INFO - Fetching details for project ID: 398882
+2026-01-31 00:46:14 - INFO - Fetching details for project ID: 439275
+2026-01-31 00:46:14 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:46:14 - INFO - Fetching details for project ID: 419821
+2026-01-31 00:46:15 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:46:15 - INFO - Fetching details for project ID: 448207
+2026-01-31 00:46:16 - INFO - Fetching details for project ID: 441826
+2026-01-31 00:46:17 - INFO - Processed 20 projects. Sleeping for 5s to avoid blocking.
+2026-01-31 00:46:22 - INFO - Fetching details for project ID: 423634
+2026-01-31 00:46:22 - INFO - Fetching details for project ID: 395978
+2026-01-31 00:46:22 - INFO - Fetching details for project ID: 415849
+2026-01-31 00:46:24 - INFO - Fetching details for project ID: 395198
+2026-01-31 00:46:24 - INFO - Fetching details for project ID: 438863
+2026-01-31 00:46:24 - INFO - Fetching details for project ID: 386911
+2026-01-31 00:46:25 - INFO - Fetching details for project ID: 417556
+2026-01-31 00:46:26 - INFO - Fetching details for project ID: 425110
+2026-01-31 00:46:27 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:46:27 - INFO - Fetching details for project ID: 430740
+2026-01-31 00:46:27 - INFO - Fetching details for project ID: 419031
+2026-01-31 00:46:27 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:46:28 - INFO - Processed 30 projects. Sleeping for 8s to avoid blocking.
+2026-01-31 00:46:36 - INFO - Fetching details for project ID: 426093
+2026-01-31 00:46:36 - INFO - Fetching details for project ID: 448663
+2026-01-31 00:46:36 - INFO - Fetching details for project ID: 449421
+2026-01-31 00:46:36 - INFO - Fetching details for project ID: 419815
+2026-01-31 00:46:38 - INFO - Fetching details for project ID: 448200
+2026-01-31 00:46:39 - INFO - Fetching details for project ID: 439503
+2026-01-31 00:46:39 - INFO - Fetching details for project ID: 451304
+2026-01-31 00:46:39 - INFO - Fetching details for project ID: 423125
+2026-01-31 00:46:40 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:46:40 - INFO - Fetching details for project ID: 450209
+2026-01-31 00:46:40 - INFO - Fetching details for project ID: 396174
+2026-01-31 00:46:41 - INFO - Processed 40 projects. Sleeping for 10s to avoid blocking.
+2026-01-31 00:46:51 - INFO - Fetching details for project ID: 439513
+2026-01-31 00:46:51 - INFO - Fetching details for project ID: 3330
+2026-01-31 00:46:51 - INFO - Fetching details for project ID: 415440
+2026-01-31 00:46:51 - INFO - Fetching details for project ID: 245177
+2026-01-31 00:46:51 - INFO - Fetching details for project ID: 367377
+2026-01-31 00:46:54 - INFO - Fetching details for project ID: 411844
+2026-01-31 00:46:54 - INFO - Fetching details for project ID: 438738
+2026-01-31 00:46:54 - INFO - Fetching details for project ID: 449620
+2026-01-31 00:46:54 - INFO - Fetching details for project ID: 414100
+2026-01-31 00:46:54 - INFO - Fetching details for project ID: 398938
+2026-01-31 00:46:57 - INFO - Processed 50 projects. Sleeping for 9s to avoid blocking.
+2026-01-31 00:47:06 - INFO - Fetching details for project ID: 448884
+2026-01-31 00:47:06 - INFO - Fetching details for project ID: 417174
+2026-01-31 00:47:06 - INFO - Fetching details for project ID: 422312
+2026-01-31 00:47:06 - INFO - Fetching details for project ID: 426539
+2026-01-31 00:47:09 - INFO - Fetching details for project ID: 430238
+2026-01-31 00:47:09 - INFO - Fetching details for project ID: 389184
+2026-01-31 00:47:09 - INFO - Fetching details for project ID: 454047
+2026-01-31 00:47:09 - INFO - Fetching details for project ID: 410304
+2026-01-31 00:47:10 - INFO - Fetching details for project ID: 424911
+2026-01-31 00:47:11 - INFO - Fetching details for project ID: 454037
+2026-01-31 00:47:11 - INFO - Processed 60 projects. Sleeping for 5s to avoid blocking.
+2026-01-31 00:47:11 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:47:16 - INFO - Fetching details for project ID: 441745
+2026-01-31 00:47:16 - INFO - Fetching details for project ID: 426092
+2026-01-31 00:47:16 - INFO - Fetching details for project ID: 388209
+2026-01-31 00:47:16 - INFO - Fetching details for project ID: 428544
+2026-01-31 00:47:16 - INFO - Fetching details for project ID: 454890
+2026-01-31 00:47:20 - INFO - Fetching details for project ID: 411006
+2026-01-31 00:47:20 - INFO - Fetching details for project ID: 403091
+2026-01-31 00:47:20 - INFO - Fetching details for project ID: 443113
+2026-01-31 00:47:20 - INFO - Fetching details for project ID: 395251
+2026-01-31 00:47:20 - INFO - Fetching details for project ID: 432142
+2026-01-31 00:47:22 - INFO - Processed 70 projects. Sleeping for 8s to avoid blocking.
+2026-01-31 00:47:30 - INFO - Fetching details for project ID: 451311
+2026-01-31 00:47:30 - INFO - Fetching details for project ID: 442741
+2026-01-31 00:47:30 - INFO - Fetching details for project ID: 401645
+2026-01-31 00:47:30 - INFO - Fetching details for project ID: 424389
+2026-01-31 00:47:32 - INFO - Fetching details for project ID: 415447
+2026-01-31 00:47:32 - INFO - Fetching details for project ID: 402571
+2026-01-31 00:47:32 - INFO - Fetching details for project ID: 449721
+2026-01-31 00:47:33 - INFO - Fetching details for project ID: 371407
+2026-01-31 00:47:34 - INFO - Fetching details for project ID: 436210
+2026-01-31 00:47:35 - INFO - Fetching details for project ID: 438182
+2026-01-31 00:47:35 - INFO - Processed 80 projects. Sleeping for 6s to avoid blocking.
+2026-01-31 00:47:37 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:47:41 - INFO - Fetching details for project ID: 392606
+2026-01-31 00:47:41 - INFO - Fetching details for project ID: 419816
+2026-01-31 00:47:41 - INFO - Fetching details for project ID: 382211
+2026-01-31 00:47:41 - INFO - Fetching details for project ID: 424874
+2026-01-31 00:47:43 - INFO - Fetching details for project ID: 441841
+2026-01-31 00:47:43 - INFO - Fetching details for project ID: 408676
+2026-01-31 00:47:44 - INFO - Fetching details for project ID: 457116
+2026-01-31 00:47:45 - INFO - Fetching details for project ID: 429441
+2026-01-31 00:47:45 - INFO - Fetching details for project ID: 449432
+2026-01-31 00:47:47 - INFO - Fetching details for project ID: 417218
+2026-01-31 00:47:48 - INFO - Processed 90 projects. Sleeping for 5s to avoid blocking.
+2026-01-31 00:47:48 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:47:53 - INFO - Fetching details for project ID: 417559
+2026-01-31 00:47:53 - INFO - Fetching details for project ID: 430200
+2026-01-31 00:47:53 - INFO - Fetching details for project ID: 388125
+2026-01-31 00:47:56 - INFO - Fetching details for project ID: 455923
+2026-01-31 00:47:56 - INFO - Fetching details for project ID: 451125
+2026-01-31 00:47:56 - INFO - Fetching details for project ID: 423640
+2026-01-31 00:47:58 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:47:58 - INFO - Fetching details for project ID: 393086
+2026-01-31 00:47:58 - INFO - Fetching details for project ID: 423882
+2026-01-31 00:47:58 - INFO - Fetching details for project ID: 379963
+2026-01-31 00:47:59 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:47:59 - INFO - Processed 100 projects. Sleeping for 5s to avoid blocking.
+2026-01-31 00:48:12 - ERROR - Error fetching project details: HTTPSConnectionPool(host='www.99acres.com', port=443): Read timed out. (read timeout=15)
+2026-01-31 00:48:12 - INFO - Multithreaded processing complete.
+2026-01-31 00:48:12 - INFO - Page 1 listings found: 103
+2026-01-31 00:48:12 - INFO - Looking for Next Page button...
+2026-01-31 00:48:14 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:48:18 - INFO - 
+--- Processing Page 2 ---
+2026-01-31 00:48:24 - INFO - Reached end of page.
+2026-01-31 00:48:24 - INFO - Found 0 listings
+2026-01-31 00:48:24 - WARNING - No listings found on page 2.
+2026-01-31 00:48:24 - INFO - Looking for Next Page button...
+2026-01-31 00:48:33 - WARNING - Next Page button not found.
+2026-01-31 00:48:33 - INFO - No more pages available. Stopping.
+2026-01-31 00:48:33 - INFO - Last page processed: 2
+2026-01-31 00:48:33 - INFO - Script ended at 2026-01-31 00:48:33
+2026-01-31 00:48:33 - INFO - Total execution time: 201.05 seconds
+2026-01-31 00:49:57 - INFO - Script started at 2026-01-31 00:49:57
+2026-01-31 00:49:57 - INFO - ====== WebDriver manager ======
+2026-01-31 00:49:58 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:49:59 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:49:59 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:50:01 - INFO - Navigating to 99acres...
+2026-01-31 00:50:08 - INFO - Successfully loaded: India Real Estate Property Site - Buy Sell Rent Properties Portal - 99acres.com
+2026-01-31 00:50:12 - INFO - Search wrapper clicked.
+2026-01-31 00:50:13 - INFO - Typed city: Ahmedabad
+2026-01-31 00:50:14 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:50:20 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:50:36 - INFO - Reached end of page.
+2026-01-31 00:50:41 - INFO - Found 148 listings
+2026-01-31 00:50:41 - INFO - Page 1 listings found: 103
+2026-01-31 00:50:41 - INFO - Looking for Next Page button...
+2026-01-31 00:50:44 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:50:50 - INFO - 
+--- Processing Page 2 ---
+2026-01-31 00:50:56 - INFO - Reached end of page.
+2026-01-31 00:50:56 - INFO - Found 0 listings
+2026-01-31 00:50:56 - WARNING - No listings found on page 2.
+2026-01-31 00:50:56 - INFO - Looking for Next Page button...
+2026-01-31 00:51:05 - WARNING - Next Page button not found.
+2026-01-31 00:51:05 - INFO - No more pages available. Stopping.
+2026-01-31 00:51:05 - INFO - Last page processed: 2
+2026-01-31 00:51:05 - INFO - Script ended at 2026-01-31 00:51:05
+2026-01-31 00:51:05 - INFO - Total execution time: 68.25 seconds
+2026-01-31 00:53:57 - INFO - Script started at 2026-01-31 00:53:57
+2026-01-31 00:53:57 - INFO - ====== WebDriver manager ======
+2026-01-31 00:53:59 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:53:59 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:53:59 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:54:01 - INFO - Navigating to 99acres...
+2026-01-31 00:54:07 - INFO - Successfully loaded: 
+2026-01-31 00:54:15 - INFO - Search wrapper clicked.
+2026-01-31 00:54:15 - INFO - Typed city: Ahmedabad
+2026-01-31 00:54:17 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:54:23 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:54:37 - INFO - Reached end of page.
+2026-01-31 00:54:41 - INFO - Found 169 listings
+2026-01-31 00:54:41 - INFO - Page 1 listings found: 103
+2026-01-31 00:54:41 - INFO - Looking for Next Page button...
+2026-01-31 00:54:44 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:54:50 - INFO - 
+--- Processing Page 2 ---
+2026-01-31 00:54:54 - INFO - Reached end of page.
+2026-01-31 00:54:54 - INFO - Found 0 listings
+2026-01-31 00:54:54 - WARNING - No listings found on page 2.
+2026-01-31 00:54:54 - INFO - Looking for Next Page button...
+2026-01-31 00:55:02 - WARNING - Next Page button not found.
+2026-01-31 00:55:02 - INFO - Reloading page and retrying Next Page...
+2026-01-31 00:55:09 - INFO - Looking for Next Page button...
+2026-01-31 00:55:17 - WARNING - Next Page button not found.
+2026-01-31 00:55:17 - INFO - Next Page still not found after reload.
+2026-01-31 00:55:17 - INFO - No more pages available. Stopping.
+2026-01-31 00:55:17 - INFO - Last page processed: 2
+2026-01-31 00:55:17 - INFO - Script ended at 2026-01-31 00:55:17
+2026-01-31 00:55:17 - INFO - Total execution time: 80.52 seconds
+2026-01-31 00:56:45 - INFO - Script started at 2026-01-31 00:56:45
+2026-01-31 00:56:45 - INFO - ====== WebDriver manager ======
+2026-01-31 00:56:48 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:56:49 - INFO - Get LATEST chromedriver version for google-chrome
+2026-01-31 00:56:49 - INFO - Driver [C:\Users\jaykishan PATEL\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-01-31 00:56:52 - INFO - Navigating to 99acres...
+2026-01-31 00:56:58 - INFO - Successfully loaded: India Real Estate Property Site - Buy Sell Rent Properties Portal - 99acres.com
+2026-01-31 00:57:04 - INFO - Search wrapper clicked.
+2026-01-31 00:57:04 - INFO - Typed city: Ahmedabad
+2026-01-31 00:57:07 - INFO - Search for Ahmedabad executed successfully.
+2026-01-31 00:57:13 - INFO - 
+--- Processing Page 1 ---
+2026-01-31 00:57:28 - INFO - Reached end of page.
+2026-01-31 00:57:33 - INFO - Found 175 listings
+2026-01-31 00:57:33 - INFO - Page 1 listings found: 103
+2026-01-31 00:57:33 - INFO - Looking for Next Page button...
+2026-01-31 00:57:35 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:57:39 - INFO - 
+--- Processing Page 2 ---
+2026-01-31 00:57:44 - INFO - Reached end of page.
+2026-01-31 00:57:45 - INFO - Found 85 listings
+2026-01-31 00:57:45 - INFO - Page 2 listings found: 14
+2026-01-31 00:57:45 - INFO - Looking for Next Page button...
+2026-01-31 00:57:47 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:57:51 - INFO - 
+--- Processing Page 3 ---
+2026-01-31 00:57:56 - INFO - Reached end of page.
+2026-01-31 00:57:58 - INFO - Found 84 listings
+2026-01-31 00:57:58 - INFO - Page 3 listings found: 13
+2026-01-31 00:57:58 - INFO - Looking for Next Page button...
+2026-01-31 00:58:01 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:58:04 - INFO - 
+--- Processing Page 4 ---
+2026-01-31 00:58:12 - INFO - Reached end of page.
+2026-01-31 00:58:14 - INFO - Found 81 listings
+2026-01-31 00:58:14 - INFO - Page 4 listings found: 16
+2026-01-31 00:58:14 - INFO - Looking for Next Page button...
+2026-01-31 00:58:16 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:58:23 - INFO - 
+--- Processing Page 5 ---
+2026-01-31 00:58:29 - INFO - Reached end of page.
+2026-01-31 00:58:30 - INFO - Found 81 listings
+2026-01-31 00:58:30 - INFO - Page 5 listings found: 17
+2026-01-31 00:58:30 - INFO - Looking for Next Page button...
+2026-01-31 00:58:33 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:58:38 - INFO - 
+--- Processing Page 6 ---
+2026-01-31 00:58:45 - INFO - Reached end of page.
+2026-01-31 00:58:47 - INFO - Found 92 listings
+2026-01-31 00:58:47 - INFO - Page 6 listings found: 13
+2026-01-31 00:58:47 - INFO - Looking for Next Page button...
+2026-01-31 00:58:50 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:58:54 - INFO - 
+--- Processing Page 7 ---
+2026-01-31 00:58:58 - INFO - Reached end of page.
+2026-01-31 00:59:01 - INFO - Found 88 listings
+2026-01-31 00:59:01 - INFO - Page 7 listings found: 15
+2026-01-31 00:59:01 - INFO - Looking for Next Page button...
+2026-01-31 00:59:03 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:59:07 - INFO - 
+--- Processing Page 8 ---
+2026-01-31 00:59:11 - INFO - Reached end of page.
+2026-01-31 00:59:13 - INFO - Found 90 listings
+2026-01-31 00:59:13 - INFO - Page 8 listings found: 13
+2026-01-31 00:59:13 - INFO - Looking for Next Page button...
+2026-01-31 00:59:15 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:59:19 - INFO - 
+--- Processing Page 9 ---
+2026-01-31 00:59:25 - INFO - Reached end of page.
+2026-01-31 00:59:27 - INFO - Found 82 listings
+2026-01-31 00:59:27 - INFO - Page 9 listings found: 11
+2026-01-31 00:59:27 - INFO - Looking for Next Page button...
+2026-01-31 00:59:30 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:59:36 - INFO - 
+--- Processing Page 10 ---
+2026-01-31 00:59:43 - INFO - Reached end of page.
+2026-01-31 00:59:45 - INFO - Found 84 listings
+2026-01-31 00:59:45 - INFO - Page 10 listings found: 8
+2026-01-31 00:59:45 - INFO - Looking for Next Page button...
+2026-01-31 00:59:48 - INFO - Clicked Next Page (normal click)
+2026-01-31 00:59:52 - INFO - 
+--- Processing Page 11 ---
+2026-01-31 00:59:57 - INFO - Reached end of page.
+2026-01-31 00:59:59 - INFO - Found 82 listings
+2026-01-31 00:59:59 - INFO - Page 11 listings found: 4
+2026-01-31 00:59:59 - INFO - Looking for Next Page button...
+2026-01-31 01:00:02 - INFO - Clicked Next Page (normal click)
+2026-01-31 01:00:08 - INFO - 
+--- Processing Page 12 ---
+2026-01-31 01:00:13 - INFO - Reached end of page.
+2026-01-31 01:00:14 - INFO - Found 0 listings
+2026-01-31 01:00:14 - WARNING - No listings found on page 12.
+2026-01-31 01:00:14 - INFO - Looking for Next Page button...
+2026-01-31 01:00:22 - WARNING - Next Page button not found.
+2026-01-31 01:00:22 - INFO - Next Page still not found after reload.
+2026-01-31 01:00:22 - INFO - No more pages available. Stopping.
+2026-01-31 01:00:22 - INFO - Last page processed: 12
+2026-01-31 01:00:22 - INFO - Script ended at 2026-01-31 01:00:22
+2026-01-31 01:00:22 - INFO - Total execution time: 216.20 seconds
