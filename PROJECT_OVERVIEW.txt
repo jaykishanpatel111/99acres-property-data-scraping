@@ -1,0 +1,150 @@
+99acres Property Data Scraping – High-Level Design
+=================================================
+
+This project scrapes property-related data from 99acres by dividing the workflow
+into two independent stages:
+1) Property Listing Scraping
+2) Property Data & Project Data Scraping
+
+This separation improves scalability, avoids duplicate work, and allows safe
+re-runs in case of failures.
+
+-------------------------------------------------
+STAGE 1: PROPERTY LISTING SCRAPING
+-------------------------------------------------
+
+Script Name:
+- scrap_property_listing.py
+
+Objective:
+- Collect unique property listing IDs from search result pages and store them
+  for further processing.
+
+Workflow:
+
+1. Browser Initialization
+   - Launch browser using Selenium.
+   - Browser options are configured to behave like a real user.
+
+2. Website Navigation
+   - Open https://www.99acres.com/
+   - Click on the search bar.
+   - Type location keyword: Ahmedabad.
+   - Trigger the search.
+
+3. Listing Page Interaction
+   - Property listing page loads.
+   - Scroll the full page gradually until the end.
+   - Random delays are added during scrolling to simulate human behavior.
+
+4. Data Extraction
+   - Extract listing_id values from loaded property cards.
+   - Store extracted IDs in a list.
+   - Ensure only unique listing IDs are kept.
+
+5. Pagination Handling
+   - Click on the "Next Page" button.
+   - Repeat scrolling and extraction for all result pages.
+
+6. Data Storage
+   - Save all unique listing IDs into:
+     all_listings.csv
+
+-------------------------------------------------
+STAGE 2: PROPERTY & PROJECT DATA SCRAPING
+-------------------------------------------------
+
+Script Name:
+- property_data_merged.py
+
+Objective:
+- Scrape detailed property data and project data only for listings that have not
+  been scraped previously.
+
+Pre-Processing Steps:
+
+1. Input Files
+   - Read listing IDs from:
+     all_listings.csv
+   - Read existing output files:
+     99acres_data.csv
+     99acers_projects.csv
+
+2. Deduplication Logic
+   - Identify listing IDs whose data is missing from the output files.
+   - Create a list of pending listings to scrape.
+
+-------------------------------------------------
+SCRAPING STRATEGY (MULTI-THREADED)
+-------------------------------------------------
+
+Each listing is scraped using two parallel approaches:
+
+Part A: Project Data Scraping
+- Uses 99acres internal "project-details" API.
+- API endpoints identified from browser Network tab.
+- Rotates:
+  - User-Agent strings
+  - API tokens
+  - Authentication headers
+
+Part B: Property Data Scraping
+- Fetches property detail page HTML.
+- Parses page source to extract:
+  - Property attributes
+  - Location information
+  - Pricing and metadata
+
+-------------------------------------------------
+DATA STORAGE
+-------------------------------------------------
+
+- Project-level data is stored in:
+  99acers_projects.csv
+
+- Property-level data is stored in:
+  99acres_data.csv
+
+Data is written incrementally to prevent data loss during failures.
+
+-------------------------------------------------
+KEY CHALLENGE: BOT DETECTION
+-------------------------------------------------
+
+Problem:
+- 99acres actively detects automated scraping behavior and blocks IP addresses.
+
+-------------------------------------------------
+ANTI-BOT TECHNIQUES IMPLEMENTED
+-------------------------------------------------
+
+Browser Behavior Simulation:
+- Full-page scrolling
+- Random scroll speeds and directions
+- Random pauses between actions
+
+Timing Controls:
+- Random sleep between scrolling, pagination, and API calls
+- After every 10 requests, introduce a long delay (2 to 3 minutes)
+
+Identity Rotation:
+- Rotate User-Agent strings
+- Use multiple API tokens and authentication combinations
+- Randomize headers per request
+
+Concurrency Control:
+- Limited multi-threading (2 threads)
+- Avoid burst traffic patterns
+
+Proxy Strategy (Required):
+- Use Indian mobile proxy rotation
+- Rotate IPs frequently to reduce block risk
+
+-------------------------------------------------
+FINAL RESULT
+-------------------------------------------------
+
+- Two-stage scalable scraping architecture
+- Incremental and fault-tolerant processing
+- Reduced duplicate scraping
+- Improved resistance to bot detection

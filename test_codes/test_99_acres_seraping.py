@@ -30,6 +30,7 @@ import csv
 import os
 import logging
 from datetime import datetime
+
 #----------------------------------------------- LOGGING SETUP ------------------------------------------------#
 # Common formatter
 formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s",
@@ -280,6 +281,7 @@ def find_listings(driver):
     except Exception as e:
         logging.error(f"Error finding listings: {e}")
         return []
+
 
 def project_details_API(project_id):
 
